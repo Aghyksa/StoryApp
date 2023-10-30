@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="loading">loading</string>
+    <string name="logout">Logout</string>
+    <string name="add_story">Add Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="notallowed">not allowed</string>
+    <string name="successup">You can upload story</string>
+    <string name="failedup">You can\'t upload story</string>
+    <string name="failpicture">Can\'t take a picture</string>
+    <string name="failedshow">Can\'t show camera</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
